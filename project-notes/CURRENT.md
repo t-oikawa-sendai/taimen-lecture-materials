@@ -3,22 +3,22 @@ Program Name: Taimen Lecture Materials CURRENT
 Language: Markdown
 Function: 対面指導教材Repositoryの現在地点・完了事項・次作業・ブロッカーを記録する
 Created: 2026-09-19
-Last Updated: 2026-09-19
+Last Updated: 2026-09-20
 Author: Takashi Oikawa
 AI: Cursor Grok 4.6
 Memo: Purpose = LEARNING。D-005反映。Governance Profile整理中。教材本編シナリオは含まない
 -->
 
-# CURRENT
+# CURRENT（現在地点）
 
 <!-- Document Info（文書情報） -->
 | Item（項目） | Value（値） |
 |---|---|
 | Document ID（文書ID） | TLM-CURRENT-001 |
-| Version（バージョン） | 0.1 |
+| Version（バージョン） | 0.2 |
 | Status（ステータス） | Draft |
 | Created Date（作成日） | 2026-09-19 |
-| Last Updated（最終更新日） | 2026-09-19 |
+| Last Updated（最終更新日） | 2026-09-20 |
 | Owner（管理者） | Takashi Oikawa |
 | Related Documents（関連文書） | README.md / CONSTITUTION.md / AGENTS.md / DECISIONS.md |
 
